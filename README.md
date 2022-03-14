@@ -1,9 +1,9 @@
 # SpaceY
 
 <div style="display: flex">
-  <img src="https://user-images.githubusercontent.com/62861636/158180352-665c6f5d-0ffa-483c-b4ea-e91f99750eda.jpg" style="width: 300px" />
-  <img src="https://user-images.githubusercontent.com/62861636/158180365-32838a75-e0e4-4ab3-b4b7-46a041ac85f9.jpg" style="width: 300px" />
-  <img src="https://user-images.githubusercontent.com/62861636/158180370-acc0d193-db38-4469-981b-32a799a8b8d5.jpg" style="width: 300px" />
+  <img src="https://user-images.githubusercontent.com/62861636/158180352-665c6f5d-0ffa-483c-b4ea-e91f99750eda.jpg" style="width: 250px" />
+  <img src="https://user-images.githubusercontent.com/62861636/158180365-32838a75-e0e4-4ab3-b4b7-46a041ac85f9.jpg" style="width: 250px" />
+  <img src="https://user-images.githubusercontent.com/62861636/158180370-acc0d193-db38-4469-981b-32a799a8b8d5.jpg" style="width: 250px" />
 </div>
 
 <h4 align="center"> 
